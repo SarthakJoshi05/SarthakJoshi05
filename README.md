@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SarthakJoshi05
-- 👀 I’m interested in php and web development
-- 🌱 I’m currently learning php,vue,html,css
+- 👋 Hi, I’m Sarthak Joshi
+- 👀 I’m interested in data engineering and Analytics Tech Stack
+- 🌱 I’m currently learning azure,databricks,spark and advanced sql
 
 <!---
 SarthakJoshi05/SarthakJoshi05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
